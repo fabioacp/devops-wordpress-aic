@@ -1,0 +1,10 @@
+.DS_STORE
+.vscode
+*.backup
+.terraform
+**/*/.terraform
+.terraform*
+**/*.tfstate
+!.terraform-docs.yml
+.github/secrets
+.env
